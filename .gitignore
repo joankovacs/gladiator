@@ -1,0 +1,7 @@
+__pycache__
+
+# Ignore blessed code & examples
+blessed_*
+
+# Ignore temp files
+temp_*
